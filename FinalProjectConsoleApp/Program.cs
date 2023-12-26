@@ -1,23 +1,4 @@
 ﻿
-
-          private static void ShowMessage(string s) {
-              Console.WriteLine("*** " + s);
-              Console.WriteLine();
-          }
-
-          static void Main(string[] args)
-          {
-              var ldConfig = Configuration.Default(SdkKey);
-
-              var client = new LdClient(ldConfig);
-
-              if (client.Initialized)
-              {
-                  ShowMessage("SDK successfully initialized!");
-              }
-              else
-              {
-                  ShowMessage("SDK failed to initialize");
                   Environment.Exit(1);
               }
 

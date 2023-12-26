@@ -2,3 +2,4 @@ C:\Users\naaga\FinalProject\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\De
 C:\Users\naaga\FinalProject\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net8.0\FinalProjectConsoleApp.AssemblyInfoInputs.cache
 C:\Users\naaga\FinalProject\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net8.0\FinalProjectConsoleApp.AssemblyInfo.cs
 C:\Users\naaga\FinalProject\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net8.0\FinalProjectConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\naaga\FinalProject\FinalProjectConsoleApp\FinalProjectConsoleApp\obj\Debug\net8.0\FinalProjectConsoleApp.sourcelink.json
